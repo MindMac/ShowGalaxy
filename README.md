@@ -4,7 +4,7 @@ An Android movie and TV show app which is capable of browsing movies and TV show
 <img src="screenshots/splash.png" width="300" height="480" />
 
 # What It Can Do
-The goal of this app is to provide an interface for users to browser movies and TV shows. Users can also search movies, TV shows and people. 
+The goal of this app is to provide an interface for users to browse movies and TV shows. Users can also search movies, TV shows and people. 
 
 * Movie and TV show browsing
 	1. Movies and TV shows fall into four categories including now playing, pouplar, coming soon and top rated.
