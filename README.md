@@ -1,12 +1,12 @@
 # ShowGalaxy
-An Android movie and TV show app which is capable of displaying kinds of movies and TV shows. ShowGalaxy also provides an interface to search movies, TV shows and   people. The data used by ShowGlaxy is powered by [The Movie Database(TMDb)](https://www.themoviedb.org/).
+An Android movie and TV show app which is capable of browsing movies and TV shows. ShowGalaxy also provides an interface to search movies, TV shows and people. The data used by ShowGlaxy is powered by [The Movie Database(TMDb)](https://www.themoviedb.org/).
 
 <img src="screenshots/splash.png" width="300" height="480" />
 
 # What It Can Do
 The goal of this app is to provide an interface for users to browser movies and TV shows. Users can also search movies, TV shows and people. 
 
-* Movie and TV show browsering
+* Movie and TV show browsing
 	1. Movies and TV shows fall into four categories including now playing, pouplar, coming soon and top rated.
 	2. Movies and TV shows display in a list view and users can click to see the detail of the show.
 	3. The detail information of each show contains relases date, running time, average score, popularity, overview, etc. Posters and trailers are also available, as well as the casts and crews. For a TV show, there is an extra season information.
