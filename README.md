@@ -24,7 +24,7 @@ The goal of this app is to provide an interface for users to browser movies and 
 <img src="screenshots/movie_trailer_people.png" height="480" hspace="3" />
 <img src="screenshots/person_info.png" height="480" hspace="3" />
 
-<img src="screenshots/tv_detail.png" height="480" hspace="3" />
+<img src="screenshots/tv_season.png" height="480" hspace="3" />
 <img src="screenshots/search_movie.png" height="480" hspace="3" />
 <img src="screenshots/search_tv_show.png" height="480" hspace="3" />
 
