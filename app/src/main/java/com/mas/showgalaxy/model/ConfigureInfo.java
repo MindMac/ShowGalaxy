@@ -18,7 +18,7 @@ public class ConfigureInfo {
     public static final String TV_SHOW_SEARCH_HOST_URL = "https://api.themoviedb.org/3/search/tv";
     public static final String PEOPLE_SEARCH_HOST_URL = "https://api.themoviedb.org/3/search/person";
 
-    public static final String API_KEY = "7dca65c6973d50aa8c57765b746fc42d";
+    public static final String API_KEY = "your moviedb key";
 
     public static String imageBaseUrl = null;
     public static ArrayList<String> backdropSizeList = new ArrayList<String>();
