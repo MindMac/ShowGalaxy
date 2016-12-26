@@ -1,6 +1,8 @@
 # ShowGalaxy
 An Android movie and TV show app which is capable of browsing movies and TV shows. ShowGalaxy also provides an interface to search movies, TV shows and people. The data used by ShowGlaxy is powered by [The Movie Database(TMDb)](https://www.themoviedb.org/).
 
+*To compile this project yourself, you need to provide TMDb API key. Please specify your key in com.mas.showgalaxy.model.ConfigureInfo class.*
+
 <img src="screenshots/splash.png" width="300" height="480" />
 
 # What It Can Do
