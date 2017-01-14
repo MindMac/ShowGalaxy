@@ -45,7 +45,7 @@ The goal of this app is to provide an interface for users to browse movies and T
 
 # License
 
-Copyright 2016 Shuang Ma
+Copyright 2016 Shuang Ma & Wenjun Hu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
