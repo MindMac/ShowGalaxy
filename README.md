@@ -18,19 +18,20 @@ The goal of this app is to provide an interface for users to browse movies and T
 	2. Users can search people, for example, an actor or actress
 	
 # Screenshots
-<img src="screenshots/menu.png" height="480" hspace="3" />
-<img src="screenshots/movie.png" height="480" hspace="3" />
-<img src="screenshots/tv_show.png" height="480" hspace="3" />
+<img src="screenshots/menu.png" height="480" align="left" />
+<img src="screenshots/movie.png" height="480" align="left" />
+<img src="screenshots/tv_show.png" height="480" align="left" />
+<br><br>
 
-<img src="screenshots/movie_info.png" height="480" hspace="3" />
-<img src="screenshots/movie_trailer_people.png" height="480" hspace="3" />
-<img src="screenshots/person_info.png" height="480" hspace="3" />
+<img src="screenshots/movie_info.png" height="480" align="left" />
+<img src="screenshots/movie_trailer_people.png" height="480" align="left" />
+<img src="screenshots/person_info.png" height="480" align="left" />
 
-<img src="screenshots/tv_season.png" height="480" hspace="3" />
-<img src="screenshots/search_movie.png" height="480" hspace="3" />
-<img src="screenshots/search_tv_show.png" height="480" hspace="3" />
+<img src="screenshots/tv_season.png" height="480" align="left" />
+<img src="screenshots/search_movie.png" height="480" align="left" />
+<img src="screenshots/search_tv_show.png" height="480" align="left" />
 
-<img src="screenshots/search_people.png" height="480" hspace="3" />
+<img src="screenshots/search_people.png" height="480" />
 
 # Dependencies
 * [Volley](https://developer.android.com/training/volley/index.html)
@@ -40,7 +41,7 @@ The goal of this app is to provide an interface for users to browse movies and T
 * [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 # Credits
-* ShowGalaxy app logo is made by <a href=>[Dimi Kazak](http://www.flaticon.com/authors/dimi-kazak) from [FlatIcon](http://www.flaticon.com)
+* ShowGalaxy app logo is made by [Dimi Kazak](http://www.flaticon.com/authors/dimi-kazak) from [FlatIcon](http://www.flaticon.com)
 * All other icons are from [Icons8](https://icons8.com)
 
 # License
